@@ -1,7 +1,7 @@
 ### Hi there 👋, I'm Emanuele! 🤓
 
 <br>
-<p><a href="https://ballarin.cc/" target="_blank"><img alt="Website - ballarin.cc" src="https://img.shields.io/badge/ballarin.cc-blue?style=for-the-badge"/>
+<p><a href="https://ballarin.cc/" target="_blank"><img alt="Website - ballarin.cc" src="https://img.shields.io/badge/ballarin.cc-grey?style=for-the-badge"/>
   </a><a href="https://twitter.com/emaballarin" target="_blank"><img alt="Twitter" src="https://img.shields.io/badge/Twitter-white?logo=twitter&style=for-the-badge"/></a>
   <a href="https://www.linkedin.com/in/emaballarin/" target="_blank"><img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-blue?logo=linkedin&style=for-the-badge"/></a></p>
 
