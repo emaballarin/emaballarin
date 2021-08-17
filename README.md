@@ -9,7 +9,7 @@
   <img align="center" src="https://github-readme-stats.vercel.app/api?username=emaballarin&count_private=true&show_icons=true?&theme=nord" alt="Emanuele Ballarin's GitHub Stats"/>
 </a>
 <a href="https://github.com/emaballarin">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=emaballarin&langs_count=10&hide=html,css&theme=nord&layout=compact" alt="Emanuele Ballarin's GitHub Stats"/>
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=emaballarin&langs_count=10&hide=html,css,roff&theme=nord&layout=compact" alt="Emanuele Ballarin's GitHub Stats"/>
 </a></p>
 
 <!--
